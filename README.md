@@ -1,4 +1,4 @@
-# weather_app
+# Today's Forecast
 
 A weather app that gives you a live weather report including pollution index & humidity level of any given location.
 
