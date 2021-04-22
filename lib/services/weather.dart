@@ -1,7 +1,7 @@
 import 'package:weather_app/services/location.dart';
 import 'package:weather_app/services/networking.dart';
 
-const apiKey = '19fba74d5e07bf0095e6f6b26f58ed94';
+const apiKey = '<Enter Your ApiKey>';
 const openWeatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 const airQualityUrl = 'https://api.openweathermap.org/data/2.5/air_pollution';
 
